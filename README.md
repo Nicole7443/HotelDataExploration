@@ -1,5 +1,5 @@
 ## Hotel Data Analysis & Visualization 
-**Tags**: `SQL`, `R`, `Power BI`, `Data Visualization`, `Data Analysis`
+**Tags**: `SQL` `R` `Power BI` `Data Visualization` `Data Analysis`
 
 To view the project in a website format, go to **[this GitHub Page for the project](https://nicole7443.github.io/hotel-data-analysis/)**.
 This project can also be accessed by navigating to `Nicole7443/hotel-data-analysis > docs > index.Rmd` and then opening the markdown file on RStudio to run the project. The dataset for this data was originally from this **[Kaggle dataset](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand)**.
