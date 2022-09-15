@@ -246,3 +246,5 @@ These findings can help the Resort and City hotel management curate their bookin
 The Power BI visualization can be explored to determine further findings on the data-set and compare the hotels on several factors.
 
 To improve accessibility to the Power BI reports, a PDF has been uploaded onto GitHub as well.
+
+[Link to Power BI Dashboard](https://app.powerbi.com/groups/c4604229-0122-43eb-8089-b9d99ebbb2f7/dashboards/547e7e03-1cda-4ff8-8529-cac4ec7c8db4?ctid=723a5a87-f39a-4a22-9247-3fc240c01396&pbi_source=linkShare)
