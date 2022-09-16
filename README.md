@@ -15,7 +15,7 @@ This project can also be accessed by navigating to `Nicole7443/hotel-data-analys
 - Data assessed in three platforms: SQLite, RStudio, Power BI
 - Perfomed univariate and bivariate exploration of data using `ggplot2` R package to explore trends and linear correlations
 - Aggregated data in SQL for direct hotel comparison across 32 variables
-- Developed custom 17 table views to prepare data for visualization on Power BI on critical variables
+- Developed 17 custom table views to prepare data for visualization on Power BI on critical variables
 #### 4. Data Visualization
 - Developed synced Power BI Report and Dashboard to highlight and findings from EDA process in Rstudio and SQL
 
